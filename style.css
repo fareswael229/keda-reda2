@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(189, 201, 15);
+}
+
+p {
+    color: white;
+}
+
+#semsem {
+    width: 500px;
+    border-style: double;
+            border-width: thick;
+            border-color: rgb(255, 0, 0);
+            border-radius: 20px;
+            margin: 70px;
+}
+
+
+#bibo {
+    width: 500px;
+    border-bottom-style: dotted;
+    border-right-style: groove;
+    border-left-style: double;
+    border-top-style: solid;
+    border-bottom-color: red;
+    border-right-color: orange;
+    border-left-color: red;
+    border-top-color: orange;
+    border-bottom-width: 10px;
+    border-right-width: 10px;
+    border-left-width: 10px;
+    border-top-width: 10px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    margin-left: 80px;
+
+}
+
+#prince {
+    width: 500px;
+    border-style: dashed groove;
+    border-width: 10px 5px 10px;
+    border-color: blue red gold;
+    margin: 50px 40px 30px 20px;
+    padding: 50px 40px;
+
+}
+
+#nada{
+    width: 500px;
+    border-style: dashed groove;
+    border-width: 10px 5px 10px;
+    border-color: red red red;
+    margin: 50px 40px 30px 20px;
+
+}
